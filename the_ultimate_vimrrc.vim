@@ -27,4 +27,5 @@ set autoindent
 set mouse=a
 " Surlignage
 set hls is
+" Remove Hightlight with 'Space'
 nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
